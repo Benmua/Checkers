@@ -1,0 +1,2 @@
+# Checkers
+Java course product
